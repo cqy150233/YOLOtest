@@ -1,7 +1,10 @@
 # YOLOtest
 一：下载mish_cuda并安装
+
   git clone https://github.com/JunnYu/mish-cuda
+  
   cd mish-cuda
+  
   python setup.py build install
   
 二：下载权重，创建相应的文件夹
